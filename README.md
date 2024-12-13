@@ -59,6 +59,6 @@ This lab is the first part of a series focusing on Azure computing and networkin
 ---
 
 ## Future Parts
-This is Part 1 of a multi-part lab. In Part 2, we will focus on connecting and configuring these VMs for communication and further tasks.
+This is Part 1 of a multi-part lab. In Part 2, we will focus on observing traffic between these VMs using Wireshark.
 
 ---
